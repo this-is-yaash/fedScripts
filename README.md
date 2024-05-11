@@ -1,2 +1,2 @@
 # fedScripts
-Collection of script files for fedora linux installations and other setups.
+**Collection of script files for fedora linux installations and other setups**.
